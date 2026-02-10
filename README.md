@@ -1,7 +1,7 @@
 # 👻 Ghostty Widget
 
 <div align="center">
-  <img src="demo_animation_optimized.gif" width="500" alt="Ghostty Widget Animation" />
+  <video src="demo_animation.mp4" width="500" autoplay loop muted playsinline></video>
   <p><i>The best terminal deserves the best desktop icon.</i></p>
 </div>
 
@@ -12,7 +12,7 @@ Powered by [Übersicht](http://tracesof.net/uebersicht/).
 ## Demo
 
 <div align="center">
-  <img src="demo_terminal.gif" width="500" alt="Ghostty Widget Launching" />
+  <video src="demo_terminal.mp4" width="500" autoplay loop muted playsinline></video>
 </div>
 
 ## Prerequisites
