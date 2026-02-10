@@ -1,6 +1,19 @@
-# Ghostty Widget for Übersicht
+# 👻 Ghostty Widget
+
+<div align="center">
+  <img src="demo_animation_optimized.gif" width="500" alt="Ghostty Widget Animation" />
+  <p><i>The best terminal deserves the best desktop icon.</i></p>
+</div>
 
 A desktop widget that displays an animated [Ghostty](https://ghostty.org/) terminal icon in ASCII art. Clicking the widget launches the Ghostty terminal.
+
+Powered by [Übersicht](http://tracesof.net/uebersicht/).
+
+## Demo
+
+<div align="center">
+  <img src="demo_terminal.gif" width="500" alt="Ghostty Widget Launching" />
+</div>
 
 ## Prerequisites
 
